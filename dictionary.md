@@ -5,7 +5,7 @@ Identity Hubs
 
 Off-ramp
 
-On-rap
+On-ramp
 
 Participating Financial Institutions (PFIs)
 
