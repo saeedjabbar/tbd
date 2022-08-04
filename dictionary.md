@@ -1,17 +1,4 @@
-
-Decentralized Identifiers (DIDs)
-
-Identity Hubs
-
-Off-ramp
-
-On-ramp
-
-Participating Financial Institutions (PFIs)
-
-tbDEX
-
-Verifiable Credentials (VCs)  
+  
 
 **Decentralized Identifiers (DIDs)**
 
@@ -46,5 +33,3 @@ Verifiable Credentials (VCs)
   
 
 **Web5**
-
-
