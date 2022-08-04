@@ -11,8 +11,40 @@ Participating Financial Institutions (PFIs)
 
 tbDEX
 
-Verifiable Credentials (VCs)
+Verifiable Credentials (VCs)  
 
-Wallets
+**Decentralized Identifiers (DIDs)**
 
-Web5
+  
+
+**Identity Hubs**
+
+  
+
+**Off-ramp**
+
+  
+
+**On-ramp**
+
+  
+
+**Participating Financial Institutions (PFIs)**
+
+  
+
+**tbDEX**
+
+  
+
+**Verifiable Credentials (VCs)**
+
+  
+
+**Wallets**
+
+  
+
+**Web5**
+
+
