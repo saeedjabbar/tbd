@@ -9,11 +9,11 @@
 
   
 
-**Off-ramp**
+**Off-ramp:** Exchanging cryptocurrencies for fiat money.
 
   
 
-**On-ramp**
+**On-ramp:** Exchanging fiat money for cryptocurrencies.
 
   
 
