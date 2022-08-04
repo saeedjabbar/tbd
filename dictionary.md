@@ -4,7 +4,7 @@
 
   
 
-**Identity Hubs**
+**Identity Hubs:** Identity Hubs are a data storage and message relay mechanism entities can use to locate public or permissioned private data related to a given DID.
 
   
 
@@ -20,7 +20,7 @@
 
   
 
-**tbDEX**
+**tbDEX:** A protocol for discovering liquidity and exchanging assets (such as bitcoin, fiat money, or real world goods) when the existence of social trust is an intractable element of managing transaction risk.
 
   
 
