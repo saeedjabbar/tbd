@@ -1,6 +1,6 @@
   
 
-**Decentralized Identifiers (DIDs)**
+**Decentralized Identifiers (DIDs):** A new type of identifier that enables verifiable, decentralized digital identity. You can read more about the standard [here](https://www.w3.org/TR/did-core/).
 
   
 
