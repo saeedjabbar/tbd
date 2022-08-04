@@ -28,8 +28,13 @@
 
   
 
-**Wallets**
+**Wallets:** Digital wallets allow for the storage, verification, and transactions of digital assets such as currencies, nfts, etc. In the tbdex protocol, wallets act as agents for individuals or institutions by facilitating exchanges with participating financial institutions. 
 
-  
 
-**Web5**
+
+**Web5:** Web5 is a Decentralized Web Platform that enables developers to leverage Decentralized Identifiers(DIDs), Verifiable Credentials (VCs), and
+Decentralized Web Nodes to write Decentralized Web Apps, returning ownership and control over identity and data to individuals.
+
+
+
+For more indept definations, you can read the full tbdex white paper [here](https://tbdex.io/whitepaper.pdf).
